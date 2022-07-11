@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="light">
+    <file>fa.png</file>
+    <file>ig.png</file>
+    <file>www.png</file>
+    <file>back off.png</file>
+    <file>back.png</file>
+    <file>right off.png</file>
+    <file>right.png</file>
+    <file>allow edit.png</file>
+    <file>not allow edit.png</file>
+    <file>question.png</file>
+    <file>about light mode.png</file>
+    <file>pause light mode.png</file>
+    <file>settings light mode.png</file>
+    <file>start light mode.png</file>
+  </qresource>
+  <qresource prefix="dark">
+    <file>question dark mode.png</file>
+    <file>about dark mode.png</file>
+    <file>pause dark mode.png</file>
+    <file>setting dark mode.png</file>
+    <file>start dark mode.png</file>
+  </qresource>
+  <qresource prefix="background">
+    <file>Background.png</file>
+    <file>Background-min.png</file>
+  </qresource>
+</RCC>

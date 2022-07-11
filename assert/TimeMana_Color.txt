@@ -1,0 +1,11 @@
+TimeMana Color
+White: 
+1. rgb(242, 242, 242)
+2. rgb(240,242,240)
+
+Black:
+1. rgb(24,24,24)
+2. rgb(23,25,27)
+
+Orange (Logo):
+1. 234, 181, 78

@@ -1,0 +1,5 @@
+Label Time: 250x40
+Icon Size: 24x24
+Main Windows: 712x384
+Font: MS Shell Dlg 2
+Font-size Label Time: 18
